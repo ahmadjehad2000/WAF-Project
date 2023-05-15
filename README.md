@@ -6,4 +6,5 @@
 ### - Block hosts automatically for any malicious activity
 ### - Verbose background processes
 ### - Use of RabbitMQ to spread jobs to different workers
-
+### - Use of NoSQL DB, MongoDB
+### - Use of REST APIs in most every function to keep DB updated and to fetch info
