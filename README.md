@@ -5,4 +5,5 @@
 ### - Backlogging every event into the Database
 ### - Block hosts automatically for any malicious activity
 ### - Verbose background processes
+### - Use of RabbitMQ to spread jobs to different workers
 
