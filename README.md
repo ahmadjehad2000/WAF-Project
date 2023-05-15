@@ -1,4 +1,4 @@
-# This is my graduation project mimicking basic functionalities of a WAF
+# This is my graduation project mimicking functionalities of a software WAF
 ## Features:
 ### - Network devices discovery
 ### - Network devices control (Block, Access list, Show running information)
